@@ -1,0 +1,29 @@
+// Day 1
+1)
+To Create a  json server you Must Create a json file "npm init -y"
+Then Add the Index.js File For the Delpoyment Yor Nedd It 
+It is Mainly Used to Store The data in the Json Server As
+Json Formate ;
+
+2)
+for create A Json Server 
+Go to The Json Server Then
+Dowload the Json Server in the 
+using The Command
+
+// Day 2
+1)
+\\Axios//
+Axios:Axios is a JavaScript library that allows
+developers to send HTTP requests to a server from 
+a web browser or Node.js. 
+Command: npm i axios
+.Make XMLHttpRequests from the browser
+.Make http requests from node.js
+.Supports the Promise API
+.Intercept request and response
+.Transform request and response data
+.Cancel requests
+.Automatic transforms for JSON data
+.Automatic data object serialization to multipart/form-data and x-www-form-urlencoded body encodings
+.Client side support for protecting against XSRF

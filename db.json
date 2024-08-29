@@ -1,0 +1,36 @@
+{
+  "allVideos": [
+    {
+      "id": "9",
+      "name": "Gravity",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Gravity_Poster.jpg",
+      "link": "https://www.youtube.com/embed/OiTiKOy59o4"
+    },
+    {
+      "id": "1",
+      "name": "TeneT",
+      "url": "https://m.media-amazon.com/images/M/MV5BNDhiODUyN2UtYTQzZi00YTE0LWJiMWEtYTVlODEyZDQwYzRhXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+      "link": "https://www.youtube.com/embed/L3pk_TBkihU"
+    }
+  ],
+  "history": [
+    {
+      "name": "TeneT",
+      "link": "https://www.youtube.com/embed/L3pk_TBkihU",
+      "timeStamp": "08/28/2024, 03:51:56 PM",
+      "id": 11
+    }
+  ],
+  "category": [
+    {
+      "CatergoryName": "Movies",
+      "allvideos": [],
+      "id": 1
+    },
+    {
+      "CatergoryName": "Series",
+      "allvideos": [],
+      "id": 2
+    }
+  ]
+}
